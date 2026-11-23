@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Stage</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 22 Nov 2026 21:23:20 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/EricBellamy/Stage/releases/download/v1.0.0-2/Stage-1.0.0-2.zip" length="5857492" type="application/octet-stream" sparkle:edSignature="UduAKdDoUopXXnJz43m4h0CLXc8wdtlvojlXPqSPIuGSiJj6N0IZxDyLwqwVSVzXMNgfoeIzakg8gUOPhdlmCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: aGbYnzpBvea43RjKt7XOGRTzfoxkdTRPD6L+K76ZJ4G96ZO0peh78EZEFImFd1sEhaWrwtm7wmFL27TPOnZACw==
+length: 1118
+-->
