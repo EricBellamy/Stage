@@ -1,1 +1,1 @@
-/stage/Stage.dmg https://github.com/EricBellamy/Stage/releases/download/v1.2.0-5/Stage-1.2.0-5-arm64.dmg 302
+/stage/Stage.dmg https://github.com/EricBellamy/Stage/releases/download/v1.2.1-6/Stage-1.2.1-6-arm64.dmg 302

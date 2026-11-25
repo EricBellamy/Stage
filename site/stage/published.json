@@ -22,5 +22,11 @@
     "archive_sha256": "2eede1a5e580368a2acf85638c4bc1820d1e66d590534a69f7b34ec76f981a0c",
     "source_commit": "9576c3db941af709fffcb222edfe51f45e6bb5ea",
     "version": "1.2.0"
+  },
+  "6": {
+    "app_cdhash": "7a791f70dcd84c5d7e3c5197749107a6c5726565",
+    "archive_sha256": "cbdd2a236770ca9a9927a72bfa285c697ad473823a0243b1a34fa640da4df8ce",
+    "source_commit": "bd55f29715937f53d3af97662c17883c5930d49e",
+    "version": "1.2.1"
   }
 }
