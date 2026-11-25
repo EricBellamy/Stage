@@ -16,5 +16,11 @@
     "archive_sha256": "3055cb3de7279868ac9e7472cc6ed52381fc1150f25a1afeffb230d8e1f7288e",
     "source_commit": "ccdf7c40875ee7d4cd48844cf81d306411aed342",
     "version": "1.1.0"
+  },
+  "5": {
+    "app_cdhash": "f096cd0a240d998fa2d132d3c7793eea8f853fde",
+    "archive_sha256": "2eede1a5e580368a2acf85638c4bc1820d1e66d590534a69f7b34ec76f981a0c",
+    "source_commit": "9576c3db941af709fffcb222edfe51f45e6bb5ea",
+    "version": "1.2.0"
   }
 }
