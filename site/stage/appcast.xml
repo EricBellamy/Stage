@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Stage</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 23 Nov 2026 06:14:12 -0500</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Tue, 24 Nov 2026 22:07:25 -0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/EricBellamy/Stage/releases/download/v1.0.1-3/Stage-1.0.1-3.zip" length="5857858" type="application/octet-stream" sparkle:edSignature="ULKWov3Gi6rgPjyMLG8U8ELmkBAd+9RLIMoRWwzyljPnrDrpX5dr/YdPYrnukhj19uKGmPpRgnNSRS/iQoISDA=="></enclosure>
+            <enclosure url="https://github.com/EricBellamy/Stage/releases/download/v1.1.0-4/Stage-1.1.0-4.zip" length="6327762" type="application/octet-stream" sparkle:edSignature="Vu3/RVcZXZIXNseo7fG6qt7bG1adLwAUEdeKVWMYPcWyXmgP4LFPLOTF2K34APtwSWc4gMQn4IJpjPlhNKoRCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: dIjCqdSTlU9h2SKbUtZbDTqIxC/+ArYu2bH+1cL7Iv52E6u2oW5ypwjvOI4+jALim8KPYqB2n39zvE9DOnw/AA==
+edSignature: W2TPnHtTKzceJ7Er4RMNwI+3xvaxkaKcswVDW9LcnfwePINFFWiunM4IQZFJa2YNT+2ExwkmkWeyfOPVXu53Bg==
 length: 1118
 -->
